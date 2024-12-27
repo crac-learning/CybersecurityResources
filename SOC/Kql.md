@@ -21,6 +21,8 @@ Welcome to the KQL resources page! This document provides a comprehensive guide 
    - **Description:** In-depth course covering real-world use cases.
    - **Features:** Lifetime access and quizzes.
    - **Skill Level:** Intermediate.
+     
+### 5. (MustLearnKQL)[https://github.com/rod-trent/MustLearnKQL]
 
 ## 🛠️ Tools and Platforms for Practicing
 
