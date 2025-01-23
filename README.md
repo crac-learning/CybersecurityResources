@@ -20,6 +20,7 @@ Explore these platforms to build a strong foundation in cybersecurity:
 - **[Hack The Box](https://www.hackthebox.com/):** Hands-on penetration testing labs and challenges.
 - **[INE](https://ine.com/):** Comprehensive training in cybersecurity, cloud, and networking.
 - **[Offensive Security](https://www.offensive-security.com/):** Home of the OSCP certification and various pen-testing resources.
+- **[Defhawk](https://defhawk.com/):** Comprehensive skill developmemt in cybersecurity on trending topics like source code review, mongo db security, nodejs, threat research, AI, docker, Red team, Exploitation and more!
 
 ## 🛠 Tools and Frameworks
 
@@ -36,6 +37,7 @@ Practice your skills on these CTF platforms:
 
 - **[TryHackMe](https://tryhackme.com/):** Beginner-friendly challenges and rooms.
 - **[CTFtime](https://ctftime.org/):** A directory of CTF events around the world.
+- **[Defhawk](https://defhawk.com/):** Comprehensive skill developmemt in cybersecurity on trending topics like source code review, mongo db security, nodejs, threat research, AI, docker, Red team, Exploitation and more!
 - **[Root-Me](https://www.root-me.org/):** Realistic hacking challenges for various skill levels.
 
 ## 📚 Books and Publications
