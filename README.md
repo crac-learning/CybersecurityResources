@@ -16,11 +16,12 @@ Welcome to the **Cybersecurity Resources** repository! This repository aims to s
 
 Explore these platforms to build a strong foundation in cybersecurity:
 
-- **[Cybrary](https://www.cybrary.it/):** Free and paid courses covering a wide range of cybersecurity topics.
+- **[Nasscom FSP](https://www.crac-learning.com/nasscom-fsp):** Comprehensive skill developmemt courses to get Cybersecurity basic knowledge course and labs.
+- - **[Cybrary](https://www.cybrary.it/):** Free and paid courses covering a wide range of cybersecurity topics.
 - **[Hack The Box](https://www.hackthebox.com/):** Hands-on penetration testing labs and challenges.
 - **[INE](https://ine.com/):** Comprehensive training in cybersecurity, cloud, and networking.
-- **[Offensive Security](https://www.offensive-security.com/):** Home of the OSCP certification and various pen-testing resources.
 - **[Defhawk](https://defhawk.com/):** Comprehensive skill developmemt in cybersecurity on trending topics like source code review, mongo db security, nodejs, threat research, AI, docker, Red team, Exploitation and more!
+- **[Offensive Security](https://www.offensive-security.com/):** Home of the OSCP certification and various pen-testing resources.
 
 ## 🛠 Tools and Frameworks
 
