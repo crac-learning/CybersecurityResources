@@ -52,13 +52,13 @@ Source code review is a critical process for identifying security vulnerabilitie
   Hone your expertise by tackling real-world code review challenges in this interactive lab.
 
 - **[Take Over](https://defhawk.com/battleground/practice-lab/Take-over)**
-  Learn how to identify and mitigate takeover vulnerabilities in this scenario-based lab.
+  Explore vulnerabilities and remediation strategies in this engaging lab.
 
 - **[Take Over 2](https://defhawk.com/battleground/practice-lab/Take-over-2)**
-  Build upon your skills with advanced takeover vulnerability analysis and patching techniques.
+  Delve deeper into advanced secure code review techniques in this practical exercise.
 
 - **[Take Over 3](https://defhawk.com/battleground/practice-lab/Take-over-3)**
-  Master the intricacies of complex takeover scenarios with this challenging lab.
+  Test your skills in an intricate lab focused on identifying and fixing complex vulnerabilities.
 
 ---
 
@@ -67,14 +67,29 @@ Source code review is a critical process for identifying security vulnerabilitie
 - **[SonarQube](https://www.sonarqube.org/)**  
   A static analysis tool for code quality and security.
 
+- **[Snyk Code](https://snyk.io/product/code/)**  
+  Detect and fix vulnerabilities in your code during development.
+
 - **[Semgrep](https://semgrep.dev/)**  
   Lightweight static analysis for finding bugs and enforcing code standards.
+
+- **[APIsecurity.io Security Audit](https://apisecurity.io/)**  
+  Specialized in auditing APIs for vulnerabilities and misconfigurations.
 
 - **[CodeQL](https://codeql.github.com/)**  
   Analyze codebases for vulnerabilities and quality issues using advanced query mechanisms.
 
+- **[Bearer CLI](https://bearer.sh/cli/)**  
+  Detect and manage sensitive data flows in your code.
+
 - **[Bandit](https://bandit.readthedocs.io/)**  
   Security analysis tool for Python code to identify common security issues.
+
+- **[Coverity Static Analysis](https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html)**  
+  Industry-leading static analysis solution for uncovering vulnerabilities.
+
+- **[Fortify](https://www.microfocus.com/en-us/solutions/static-code-analysis-sast)**  
+  A static application security testing tool to identify and remediate vulnerabilities.
 
 - **[Brakeman](https://brakemanscanner.org/)**  
   Static analysis security tool for Ruby on Rails applications.
