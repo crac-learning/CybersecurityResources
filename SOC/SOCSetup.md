@@ -1,12 +1,16 @@
 # Malware Analysis Lab Setup
 
-Setting up a **secure** and **effective** malware analysis lab requires careful planning. This guide covers everything from hardware selection to essential tools.
+This guide covers everything from hardware selection to essential tools. You need to first define the scope for your lab which can be from following
 
 ## 1. Define Your Lab Scope
-- **Static Analysis** (Analyzing files without execution)
-- **Dynamic Analysis** (Executing malware in a controlled environment)
-- **Memory Forensics** (Investigating system memory dumps)
-- **Network Analysis** (Observing malware communication)
+- **Static Analysis **
+- With Static analysis you can study the code of malware without running it. This means, researchers are looking at how the malware is built and what it's designed to do, all without actually letting it execute on a computer.
+- **Dynamic Analysis**
+- With Dynamic analysis, the researchers can execute malware in a controlled environment in oder to analyse the malware sample.
+- **Memory Forensics**
+- Using Memory Forensics, we can investigate system memory dumps to determine the malicious actions which were done on a particular system
+- **Network Analysis**
+- Here, the researchers can actively observe malware communication happening in a network.
 
 ## 2. Hardware & Virtualization
 - **Recommended Specs:** 16GB RAM, 500GB+ SSD, Multi-core CPU
