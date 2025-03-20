@@ -1,4 +1,4 @@
-# 🚀 Malware Analysis Lab Setup
+# Malware Analysis Lab Setup
 
 Setting up a **secure** and **effective** malware analysis lab requires careful planning. This guide covers everything from hardware selection to essential tools.
 
