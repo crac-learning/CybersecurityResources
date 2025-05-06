@@ -1,5 +1,7 @@
 ### DNS Security Tools Overview
 
+![image](https://github.com/user-attachments/assets/6fffd260-98ca-4267-9065-a75660f788a3)
+
 DNS security tools act as intermediaries between users and the internet, safeguarding against cyber threats by filtering malicious content, preventing phishing attacks, and ensuring secure domain name resolutions.
 
 ---
