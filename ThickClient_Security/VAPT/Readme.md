@@ -2,20 +2,20 @@
 
 ## Overview
 
-This repository contains documentation and methodologies used in the Vulnerability Assessment and Penetration Testing (VAPT) of a **Thick Client Application**. The goal of this engagement is to identify security flaws in the thick client software, assess the risk levels, and provide actionable recommendations for remediation.
+This repository provide detailed documentation and methodology used in the Vulnerability Assessment and Penetration Testing (VAPT) of a **Thick Client Application**. The goal of this engagement is to identify security flaws in the thick client software, assess the risk levels, and provide actionable recommendations for remediation.
 
 ---
 
 ## Scope
 
 **In-Scope Assets:**
-- Thick client application: `<Application Name>`
-- Backend servers (as used by the thick client)
-- Local data storage used by the client
+- Thick client application to be tested
+- Backend servers which are used by the thick client which could include API Servers, Database Servers, Authentication server etc.
+- Local data storage used by the client on the device
 - Authentication and session management mechanisms
 
 **Out-of-Scope:**
-- Web or mobile versions of the application
+- This structure is focued only on the thick client and Web or mobile versions of the application
 - Infrastructure unrelated to thick client communication
 
 ---
@@ -62,7 +62,7 @@ This repository contains documentation and methodologies used in the Vulnerabili
 
 ---
 
-## Sample Findings (Redacted)
+## Sample Findings
 
 | ID | Title | Severity | Description |
 |----|-------|----------|-------------|
@@ -91,6 +91,6 @@ The final report includes:
 - Regularly update third-party libraries
 
 ---
+## Contact
 
-## Directory Structure
-
+For questions or collaboration, reach out at: admin@crac-learning.com
